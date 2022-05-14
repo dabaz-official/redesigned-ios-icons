@@ -3,7 +3,7 @@
 
 You can download and use it for free in your personal project.
 
-If you can't find some icons that you're looking for, don't worry. I will update this repository when I have plenty of time for designing.
+If you can't find some icons that you're looking for, don't worry. I will update this repository when I have time for designing.
 
 ## Declaration
 

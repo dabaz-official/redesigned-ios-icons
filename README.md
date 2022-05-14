@@ -1,13 +1,17 @@
 # Redesigned iOS icons by DabAZ
 ![examples of redesigned icons by DabAZ](./examples.png)
 
-You can download and use it for free in your personal project. If you can't find some icons that you're looking for, don't worry. I will update this repository when I have plenty of time for designing.
+You can download and use it for free in your personal project.
 
-This repository is not affiliated by **Apple**.
+If you can't find some icons that you're looking for, don't worry. I will update this repository when I have plenty of time for designing.
 
-The brands **iPhone** and **iOS** are property of **Apple, Inc**.
+## Declaration
 
-All logos and trademarks used are property of **Apple, Inc**.
+This repository is not affiliated by [**Apple**](https://www.apple.com/).
+
+The brands [**iPhone**](https://www.apple.com/iphone/) and [**iOS**](https://www.apple.com/ios/ios-15/) are property of [**Apple, Inc**](https://www.apple.com/).
+
+All logos and trademarks used are property of [**Apple, Inc**](https://www.apple.com/).
 
 ## Want to work with me?
 

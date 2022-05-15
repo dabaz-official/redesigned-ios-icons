@@ -1,5 +1,5 @@
 # Redesigned iOS icons by DabAZ
-![examples of redesigned icons by DabAZ](./examples.png)
+![examples of redesigned icons by DabAZ]
 
 You can download and use it for free in your personal project.
 
